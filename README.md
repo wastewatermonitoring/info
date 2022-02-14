@@ -1,3 +1,12 @@
-# Abwassermonitoring
+Mit der Coronapandemie taten sich neue, unbeschrittene Forschungsgebiete auf...
+
+...jetzt können wir schon auf viele Monate Erfahrung zurückblicken...
+
+...und immer wieder tauchen neue Peaks hinter dem Horizont auf!
+
+Manchmal fallen die Daten in tiefe Löcher...
+
+...und werden mit Glück mit einem Click gehoben...
+
 
 https://wastewatermonitoring.github.io/info
