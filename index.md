@@ -1,5 +1,5 @@
-### Beschreibung
 
-![Start](/media/pic2.jpg)  
-![Exploring](/media/pic3.jpg)  
-![Animation](/media/animation_2.gif)  
+![Start](/media/pic1_small.jpg)  
+![Exploring](/media/pic2_small.jpg)  
+![Animation](/media/pic3_small.gif)  
+![Daten](/media/pic4_small.jpg)  
